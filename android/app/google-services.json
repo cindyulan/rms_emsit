@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "343221055803",
+    "firebase_url": "https://rms-emsit-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "rms-emsit",
+    "storage_bucket": "rms-emsit.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:343221055803:android:00f6e4ec7614186b52871e",
+        "android_client_info": {
+          "package_name": "com.example.rms_emsit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "343221055803-720886ds5rh4pk6lc6blu7rgj37a67po.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.rms_emsit",
+            "certificate_hash": "e1ad9f56af93a16dcc27557fe2bc8db2ffed4dd8"
+          }
+        },
+        {
+          "client_id": "343221055803-736u7vd4fmpq40amhr8mbr4ctjunka0l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqP7XwayMIvk3vudgb_wKSaYtCl6X4htw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "343221055803-736u7vd4fmpq40amhr8mbr4ctjunka0l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,6 +1,6 @@
 # rms_emsit
 
-A new Flutter project.
+Mobile Application for Road Management System.
 
 ## Getting Started
 
